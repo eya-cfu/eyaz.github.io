@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Eyaz's homepage
 description: Bookmark this to keep an eye on my blog scribbles!
+markdown: kramdown
